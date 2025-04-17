@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saathvika123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,5 +28,10 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
