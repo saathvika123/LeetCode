@@ -11,12 +11,8 @@ class Solution {
             }
             if(r-l+1==k)
             {
-                String st="";
-                for(int p=l;p<=r;p++)
-                {
-                    st=st+s.charAt(p);
-                }
-                int val=Integer.parseInt(st);
+                
+                int val=Integer.parseInt(s.substring(l,r+1));
                 if( val!=0 &&num%val==0) c++;
 
             }
