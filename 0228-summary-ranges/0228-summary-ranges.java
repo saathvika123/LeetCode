@@ -1,10 +1,10 @@
 class Solution {
     public List<String> summaryRanges(int[] a) 
     {
+        if(a.length==0) return new ArrayList<>();
         List<String> l=new ArrayList<>();
         String x="";
         String y="";
-        if(a.length==0) return new ArrayList<>();
         int c=a[0];
         int fi=a[0];
         int li=a[0];
