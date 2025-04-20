@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/saathvika123/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
