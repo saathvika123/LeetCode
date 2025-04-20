@@ -62,4 +62,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/saathvika123/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
