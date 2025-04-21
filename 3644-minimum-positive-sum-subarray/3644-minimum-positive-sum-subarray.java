@@ -5,6 +5,7 @@ class Solution {
         for(int k=li;k<=ri;k++)
         {
            int ans=func(k,a);
+           System.out.println(ans);
            if(ans>0)
            b= Math.min(b,ans);
         }
@@ -28,7 +29,7 @@ class Solution {
                 val=Math.min(val,c);
             }
         }
-        return (val==Integer.MAX_VALUE?-1:val);
-
+       // return (val==Integer.MAX_VALUE?-1:val);
+        return val;
     }
 }
