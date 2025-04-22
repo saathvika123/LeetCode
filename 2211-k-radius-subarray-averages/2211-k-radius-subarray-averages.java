@@ -3,19 +3,14 @@ class Solution {
     {
         int b[]=new int[a.length];
         Arrays.fill(b,-1);
-        long sum=0;
-        int l=0;
         for(int r=0;r<a.length;r++)
         {
-            sum=sum+a[r];
-            if(r-l==(2*k)+1)
+            if(r-k>=0 && r+k<a.length && (r+k)-(r-k)+1==(2*k)+1)
             {
-                sum-=a[l];
-                l++;
-            }
-            if(r-l+1==(2*k)+1)
-            {
-                b[l+k]=(int)(sum/((2*k)+1));
+            long sum=0;
+                for(int j=r-k;j<=r+k;j++)
+                sum+=a[j];
+                b[r]=(int)(sum/((2*k)+1));
             }
         }
         return b;
