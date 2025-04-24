@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saathvika123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saathvika123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saathvika123/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -37,11 +38,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saathvika123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saathvika123/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/saathvika123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1138-grumpy-bookstore-owner](https://github.com/saathvika123/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
