@@ -35,6 +35,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/saathvika123/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saathvika123/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -44,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saathvika123/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/saathvika123/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saathvika123/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saathvika123/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Math
