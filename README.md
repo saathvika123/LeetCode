@@ -18,6 +18,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saathvika123/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saathvika123/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saathvika123/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saathvika123/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/saathvika123/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saathvika123/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saathvika123/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Math
