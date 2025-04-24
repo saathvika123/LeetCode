@@ -11,12 +11,12 @@ mp.put(a[i], mp.getOrDefault(a[i], 0) + 1);
           mp1.put(a[r], mp1.getOrDefault(a[r], 0) + 1);
             while(mp1.size()==mp.size())
             {
-                c+=(a.length-r);
                 int v=mp1.get(a[l]);
                 v--;
                 mp1.put(a[l],v);
                 if(v==0) mp1.remove(a[l]);
                 l++;
+                c+=(a.length-r);
             }
 
         }    
