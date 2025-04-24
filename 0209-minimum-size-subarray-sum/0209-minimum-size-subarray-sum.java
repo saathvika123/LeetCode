@@ -6,9 +6,9 @@ class Solution {
             val+=a[r];
             while(val>=tar)
             {
+            ans=Math.min(ans,r-l+1);
                 val-=a[l];
                 l++;
-            ans=Math.min(ans,r-l+2);
             }
         }
       return ans==Integer.MAX_VALUE?0:ans;  
