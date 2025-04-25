@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saathvika123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/saathvika123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/saathvika123/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
