@@ -13,6 +13,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saathvika123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/saathvika123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saathvika123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -79,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3830-find-closest-person](https://github.com/saathvika123/LeetCode/tree/master/3830-find-closest-person) |
 ## Counting
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
