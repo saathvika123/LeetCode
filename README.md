@@ -99,6 +99,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/saathvika123/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/saathvika123/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saathvika123/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/saathvika123/LeetCode/tree/master/2752-sum-multiples) |
 | [3830-find-closest-person](https://github.com/saathvika123/LeetCode/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
