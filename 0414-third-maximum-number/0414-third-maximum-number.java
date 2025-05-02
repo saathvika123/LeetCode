@@ -1,16 +1,14 @@
 class Solution {
-    public int thirdMax(int[] nums) 
-    {
-        Arrays.sort(nums);
-       TreeSet<Integer> s=new TreeSet<>();
-       for(int i:nums)
-       s.add(i);
-       if(s.size()-3>=0)
+    public int thirdMax(int[] nums) {
+        PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
+        for(int i:nums)
+        if(!pq.contains(i)) pq.add(i);
+         if(pq.size()-3>=0)
        {
-        s.remove(s.last());
-        s.remove(s.last());
-        return s.last();
+        pq.remove();
+        pq.remove();
+        return pq.remove();
        }
-       return s.last();
+       return pq.remove();
     }
 }
