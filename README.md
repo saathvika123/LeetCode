@@ -91,6 +91,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/saathvika123/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3830-find-closest-person](https://github.com/saathvika123/LeetCode/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
