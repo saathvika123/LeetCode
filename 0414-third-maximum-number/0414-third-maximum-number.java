@@ -7,10 +7,10 @@ class Solution {
        s.add(i);
        if(s.size()-3>=0)
        {
-        s.pollLast();
-        s.pollLast();
-        return s.pollLast();
+        s.remove(s.last());
+        s.remove(s.last());
+        return s.last();
        }
-       return s.pollLast();
+       return s.last();
     }
 }
