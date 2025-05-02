@@ -2,11 +2,15 @@ class Solution {
     public int thirdMax(int[] nums) 
     {
         Arrays.sort(nums);
-       List<Integer> l=new ArrayList<>();
+       TreeSet<Integer> s=new TreeSet<>();
        for(int i:nums)
-       if(!l.contains(i)) l.add(i);
-       if(l.size()-3>=0)
-       return l.get(l.size()-3);
-       return l.get(l.size()-1);
+       s.add(i);
+       if(s.size()-3>=0)
+       {
+        s.pollLast();
+        s.pollLast();
+        return s.pollLast();
+       }
+       return s.pollLast();
     }
 }
