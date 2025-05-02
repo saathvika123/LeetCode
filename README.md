@@ -19,6 +19,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/saathvika123/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saathvika123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
+| [0742-to-lower-case](https://github.com/saathvika123/LeetCode/tree/master/0742-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saathvika123/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saathvika123/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
