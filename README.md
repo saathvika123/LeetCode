@@ -91,6 +91,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/saathvika123/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/saathvika123/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/saathvika123/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3830-find-closest-person](https://github.com/saathvika123/LeetCode/tree/master/3830-find-closest-person) |
 ## Counting
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/saathvika123/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
