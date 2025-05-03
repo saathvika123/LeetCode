@@ -57,6 +57,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saathvika123/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/saathvika123/LeetCode/tree/master/3321-type-of-triangle) |
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saathvika123/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -103,6 +104,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saathvika123/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/saathvika123/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/saathvika123/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/saathvika123/LeetCode/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/saathvika123/LeetCode/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/saathvika123/LeetCode/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
