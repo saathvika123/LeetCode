@@ -7,11 +7,10 @@ class Solution {
             for(int j=a[0].length-1;j>=0;j--)
             {
                 if(a[i][j]==0)
-                ans[i][col]=1;
+                ans[i][col++]=1;
                 else
-                ans[i][col]=0;
-                col++;
-                if(col>=a[0].length) col=0;
+                ans[i][col++]=0;
+                if(j==0) col=0;
             }
         }
         return ans;
