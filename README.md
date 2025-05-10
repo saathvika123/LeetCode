@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saathvika123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/saathvika123/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saathvika123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0387-first-unique-character-in-a-string](https://github.com/saathvika123/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saathvika123/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -189,6 +191,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
