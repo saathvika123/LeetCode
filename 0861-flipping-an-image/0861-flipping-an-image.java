@@ -10,7 +10,7 @@ class Solution {
                 ans[i][col++]=1;
                 else
                 ans[i][col++]=0;
-                if(j==0) col=0;
+                if(col==c) col=0;
             }
         }
         return ans;
