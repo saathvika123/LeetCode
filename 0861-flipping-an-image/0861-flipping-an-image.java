@@ -1,7 +1,7 @@
 class Solution {
     public int[][] flipAndInvertImage(int[][] a) {
         int row=0,col=0,r=a.length,c=a[0].length;
-        int ans[][]=new int[a.length][a[0].length];
+        int ans[][]=new int[r][c];
         for(int i=0;i<r;i++)
         {
             for(int j=c-1;j>=0;j--)
