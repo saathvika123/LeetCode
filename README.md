@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/saathvika123/LeetCode/tree/master/0567-permutation-in-string) |
+| [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saathvika123/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -47,6 +48,7 @@
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/saathvika123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1138-grumpy-bookstore-owner](https://github.com/saathvika123/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/saathvika123/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -186,6 +190,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
