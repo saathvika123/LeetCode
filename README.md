@@ -54,6 +54,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/saathvika123/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saathvika123/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saathvika123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1677-matrix-diagonal-sum](https://github.com/saathvika123/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -193,6 +194,7 @@
 | [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1677-matrix-diagonal-sum](https://github.com/saathvika123/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
