@@ -1,18 +1,18 @@
 class Solution {
     public void setZeroes(int[][] a) 
     {
-        List<Integer> l=new ArrayList<>();
-        List<Integer> l1=new ArrayList<>();
         int r=a.length;
         int c=a[0].length;
+        int a1[]=new int[r];
+        int a2[]=new int[c];
         for(int i=0;i<r;i++)
         {
             for(int j=0;j<c;j++)
             {
                 if(a[i][j]==0) 
                 {
-                    l.add(i);
-                    l1.add(j);
+                    a1[i]=1;
+                    a2[j]=1;
                 }
             }
         }
@@ -20,7 +20,7 @@ class Solution {
         {
             for(int j=0;j<c;j++)
             {
-               if(l.contains(i)||l1.contains(j)) a[i][j]=0;
+               if(a1[i]==1 ||a2[j]==1) a[i][j]=0;
             }
         }
     }
