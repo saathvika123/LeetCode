@@ -4,10 +4,9 @@ class Solution
     {
         int c=a[0].length;
         int r=a.length;
-        int s=0;
+        int co=0;
         for(int i=0;i<c;i++)
         {
-            int co=0;
             for(int j=1;j<r;j++)
             {
                 while(a[j][i]<=a[j-1][i])
@@ -16,8 +15,7 @@ class Solution
                     co++;
                 }
             }
-            s+=co;
         }
-        return s;
+        return co;
     }
 }
