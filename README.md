@@ -40,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/saathvika123/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saathvika123/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/saathvika123/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/saathvika123/LeetCode/tree/master/0228-summary-ranges) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saathvika123/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/saathvika123/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/saathvika123/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saathvika123/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
