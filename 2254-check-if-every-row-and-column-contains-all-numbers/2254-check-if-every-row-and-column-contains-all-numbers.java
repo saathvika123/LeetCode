@@ -3,13 +3,13 @@ class Solution {
         int r=a.length;
         for(int i=0;i<r;i++)
         {
-            Map<Integer,Integer> mp=new HashMap<>();
-            Map<Integer,Integer> mp1=new HashMap<>();
+            Set<Integer> mp=new HashSet<>();
+            Set<Integer> mp1=new HashSet<>();
 
             for(int j=0;j<r;j++)
             {
-                mp.put(a[i][j],mp.getOrDefault(a[i][j],0)+1);
-                mp1.put(a[j][i],mp1.getOrDefault(a[j][i],0)+1);
+                mp.add(a[i][j]);
+                mp1.add(a[j][i]);
 
             }
             
