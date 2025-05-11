@@ -32,23 +32,21 @@ class Solution {
             }
             colEnd--;
 
-            if(rowBegin<=rowEnd)
-            {
+           
             for(int i=colEnd;i>=colBegin&&head!=null;i--)
             {
                 a[rowEnd][i]=head.val;
                 head=head.next;
             }
             rowEnd--;
-            }
-            if(colBegin<=colEnd){
+            
             for(int i=rowEnd;i>=rowBegin&&head!=null;i--)
             {
                 a[i][colBegin]=head.val;
                 head=head.next;
             }
             colBegin++;
-            }
+            
         }
         return a;
     }
