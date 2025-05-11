@@ -10,7 +10,7 @@
  */
 class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
-        if(head==null) return new int[][]{};
+        // if(head==null) return new int[][]{};
         int a[][]=new int[m][n];
         for(int i[]:a)
         {
