@@ -4,11 +4,11 @@ class Solution {
         List<Integer> l=new ArrayList<>();
         int r=a.length;
         int c=a[0].length;
-        int si=0,sj=c-1;
+        int sj=c-1;
         for(int i=0;i<r;i++)
         {
             if(i%2==0){
-            for(int j=si;j<c;j=j+2)
+            for(int j=0;j<c;j=j+2)
             {
                 l.add(a[i][j]);
                 if(j==c-1) sj=c-2;
