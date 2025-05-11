@@ -82,6 +82,7 @@
 | [3463-alternating-groups-i](https://github.com/saathvika123/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/saathvika123/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saathvika123/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/saathvika123/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [2411-spiral-matrix-iv](https://github.com/saathvika123/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/saathvika123/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Queue
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [2737-row-with-maximum-ones](https://github.com/saathvika123/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/saathvika123/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saathvika123/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/saathvika123/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Divide and Conquer
 |  |
 | ------- |
