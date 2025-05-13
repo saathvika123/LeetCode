@@ -1,11 +1,10 @@
 class Solution {
     public int minimumSum(int num) {
         int a[]=new int[4];
-        int s=0;
         int i=0;
         while(num!=0)
         {
-            a[i++]=s*10+num%10;
+            a[i++]=num%10;
             num/=10;
         }
         Arrays.sort(a);
