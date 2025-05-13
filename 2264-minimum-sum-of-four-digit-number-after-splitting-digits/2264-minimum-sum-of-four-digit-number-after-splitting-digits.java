@@ -2,7 +2,7 @@ class Solution {
     public int minimumSum(int num) {
         int a[]=new int[4];
         int i=0;
-        while(num!=0)
+        while(num>0)
         {
             a[i++]=num%10;
             num/=10;
