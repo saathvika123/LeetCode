@@ -8,10 +8,9 @@ class Solution {
             num/=10;
         }
         Arrays.sort(a);
-        String s1=String.valueOf(a[0]);
-        s1=s1+String.valueOf(a[2]);
-         String s2=String.valueOf(a[1]);
-        s2=s2+String.valueOf(a[3]);
-        return Integer.parseInt(s1)+Integer.parseInt(s2);
+       int v1=(10*a[0])+a[2];
+        int v2=(10*a[1])+a[3];return v1+v2;
+
+
     }
 }
