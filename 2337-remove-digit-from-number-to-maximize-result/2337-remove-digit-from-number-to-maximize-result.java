@@ -1,19 +1,16 @@
 class Solution {
-    public String removeDigit(String number, char digit) {
-       String maxResult = "";
+    public String removeDigit(String a, char digit) {
+       String mn="";
         
-        for (int i = 0; i < number.length(); i++) {
-            if (number.charAt(i) == digit) {
-                // Remove the digit at index i
-                String newNumber = number.substring(0, i) + number.substring(i + 1);
-                
-                // Update max result if newNumber is greater
-                if (newNumber.compareTo(maxResult) > 0) {
-                    maxResult = newNumber;
-                }
+        for (int i=0;i<a.length(); i++)
+         {
+            if (a.charAt(i)==digit) 
+            {
+                String s=a.substring(0,i)+a.substring(i+1);
+               if (mn.compareTo(s)<0)
+                    mn=s;
             }
         }
-
-        return maxResult;  
+        return mn;  
     }
 }
