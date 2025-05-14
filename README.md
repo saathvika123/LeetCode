@@ -30,6 +30,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saathvika123/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/saathvika123/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/saathvika123/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/saathvika123/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saathvika123/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3312-number-of-changing-keys](https://github.com/saathvika123/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -196,6 +197,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saathvika123/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/saathvika123/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/saathvika123/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saathvika123/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting Sort
 |  |
