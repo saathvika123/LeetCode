@@ -57,6 +57,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/saathvika123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0777-toeplitz-matrix](https://github.com/saathvika123/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1138-grumpy-bookstore-owner](https://github.com/saathvika123/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
+| [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
 | [2154-minimum-moves-to-convert-string](https://github.com/saathvika123/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/saathvika123/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
