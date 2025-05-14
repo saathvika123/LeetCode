@@ -1,31 +1,19 @@
-import java.math.BigInteger;
 class Solution {
-    public String removeDigit(String s, char digit)
-     {
-BigInteger mn = new BigInteger("-9");
-        for(int i=0;i<s.length();i++)
-        {
-            if(s.charAt(i)==digit)
-            {
-                String s1="";
-                String s2="";
-                int l=0;
-                while(i>=1&&l<=i-1)
-                {
-                s1=s1+s.charAt(l);
-                l++;
+    public String removeDigit(String number, char digit) {
+       String maxResult = "";
+        
+        for (int i = 0; i < number.length(); i++) {
+            if (number.charAt(i) == digit) {
+                // Remove the digit at index i
+                String newNumber = number.substring(0, i) + number.substring(i + 1);
+                
+                // Update max result if newNumber is greater
+                if (newNumber.compareTo(maxResult) > 0) {
+                    maxResult = newNumber;
                 }
-                int h=i+1;
-                while(h<s.length())
-                {
-                s1=s1+s.charAt(h);
-                h++;
-                }
-                BigInteger val=new BigInteger(s1.concat(s2));
-                if(mn.compareTo(val)==-1) mn=val;
-                // mn=Math.max(mn,val);
             }
         }
-            return String.valueOf(mn);
+
+        return maxResult;  
     }
 }
