@@ -4,7 +4,7 @@ class Solution {
         int ans=0;
         for(char ch:word.toCharArray())
         {
-            int clockwise=Math.abs((ch-'a'+1)-(current-'a'+1));
+            int clockwise=Math.abs(ch-current);
             int anticlockwise=26-clockwise;
             int x=Math.min(clockwise,anticlockwise);
             ans+=1+x;
