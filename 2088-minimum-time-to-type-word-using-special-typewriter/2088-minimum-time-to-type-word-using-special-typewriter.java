@@ -5,7 +5,7 @@ public int minTimeToType(String word) {
 
     for (char ch : word.toCharArray()) {
         // Distance when moving clockwise
-        int clockwise = Math.abs((ch - 'a') - (current - 'a'));
+        int clockwise = Math.abs((ch - 'a'+1) - (current - 'a'+1));
 
         // Distance when moving counterclockwise
         int anticlockwise = 26 - clockwise;
