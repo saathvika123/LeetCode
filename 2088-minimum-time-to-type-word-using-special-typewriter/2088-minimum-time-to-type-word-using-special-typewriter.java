@@ -1,26 +1,18 @@
 class Solution {
-public int minTimeToType(String word) {
-    char current = 'a'; // Start at 'a'
-    int ans = 0;        // Total time
+    public int minTimeToType(String word) {
+        char current='a';
+        int ans=0;
+        for(char ch:word.toCharArray())
+        {
+            int clockwise=Math.abs((ch-'a'+1)-(current-'a'+1));
+            int anticlockwise=26-clockwise;
+            int x=Math.min(clockwise,anticlockwise);
+            ans+=1+x;
+            current=ch;
 
-    for (char ch : word.toCharArray()) {
-        // Distance when moving clockwise
-        int clockwise = Math.abs((ch - 'a'+1) - (current - 'a'+1));
-
-        // Distance when moving counterclockwise
-        int anticlockwise = 26 - clockwise;
-
-        // Choose the shorter path
-        int x = Math.min(clockwise, anticlockwise);
-
-        // Add time: move time (x) + type time (1)
-        ans += x + 1;
-
-        // Update the current pointer position
-        current = ch;
+        }
+        return ans;
+        
+        
     }
-
-    return ans;
-}
-
 }
