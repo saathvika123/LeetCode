@@ -68,6 +68,7 @@
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/saathvika123/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2211-k-radius-subarray-averages](https://github.com/saathvika123/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/saathvika123/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -175,6 +176,7 @@
 | [0414-third-maximum-number](https://github.com/saathvika123/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saathvika123/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2154-minimum-moves-to-convert-string](https://github.com/saathvika123/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/saathvika123/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
 | ------- |
