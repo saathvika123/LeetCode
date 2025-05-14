@@ -7,11 +7,11 @@ class Solution {
             {
                 ans=Math.max(ans,Math.abs(i-j));
                 j++;
-                if(j>=a.length)
-                {
-                    i++;
-                j=i+1;
-                }
+                // if(j>=a.length)
+                // {
+                //     i++;
+                // j=i+1;
+                // }
                 
             }
             else if(j>=a.length)
