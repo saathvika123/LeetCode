@@ -20,7 +20,6 @@ class Solution {
                 c++;
                 i++;
                 j++;
-                if(i>=g.length ||j>=s.length) break;
             }
             
           
