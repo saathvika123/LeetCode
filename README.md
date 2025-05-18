@@ -84,6 +84,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saathvika123/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/saathvika123/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/saathvika123/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saathvika123/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/saathvika123/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -108,6 +109,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/saathvika123/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/saathvika123/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saathvika123/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/saathvika123/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -189,6 +191,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/saathvika123/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/saathvika123/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/saathvika123/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/saathvika123/LeetCode/tree/master/3321-type-of-triangle) |
@@ -208,6 +211,7 @@
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/saathvika123/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/saathvika123/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/saathvika123/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saathvika123/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting Sort
 |  |
@@ -228,6 +232,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/saathvika123/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2411-spiral-matrix-iv](https://github.com/saathvika123/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/saathvika123/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -239,6 +244,7 @@
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/saathvika123/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/saathvika123/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/saathvika123/LeetCode/tree/master/3226-minimum-number-game) |
 ## Matrix
