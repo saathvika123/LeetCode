@@ -60,6 +60,7 @@
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/saathvika123/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/saathvika123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0777-toeplitz-matrix](https://github.com/saathvika123/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -201,6 +202,7 @@
 | [0055-jump-game](https://github.com/saathvika123/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/saathvika123/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/saathvika123/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/saathvika123/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
