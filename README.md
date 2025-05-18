@@ -39,12 +39,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saathvika123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/saathvika123/LeetCode/tree/master/0055-jump-game) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saathvika123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/saathvika123/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saathvika123/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/saathvika123/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saathvika123/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -193,6 +195,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/saathvika123/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/saathvika123/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/saathvika123/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
