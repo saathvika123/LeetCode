@@ -3,11 +3,9 @@ class Solution {
         if(n==0) return true;
         if(a.length==1) 
         {
-            if(a[0]==1 && n==0)
-            return true;
-            else if(a[0]==1&&n!=0)
-             return false;
-             else if(a[0]==0 && n==1) return true;
+             if(a[0]==0&&n!=0)
+             return true;
+            
              return false;
 
         }
