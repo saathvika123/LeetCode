@@ -35,6 +35,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saathvika123/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3312-number-of-changing-keys](https://github.com/saathvika123/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/saathvika123/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3379-score-of-a-string](https://github.com/saathvika123/LeetCode/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
