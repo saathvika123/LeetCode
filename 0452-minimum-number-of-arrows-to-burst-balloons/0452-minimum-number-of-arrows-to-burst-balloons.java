@@ -10,7 +10,6 @@ class Solution {
             {
             arrow++;
                 x=points[i][1];
-               
             }
         }
         return arrow;
