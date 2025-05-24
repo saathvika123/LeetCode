@@ -73,6 +73,7 @@
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/saathvika123/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/saathvika123/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/saathvika123/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/saathvika123/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -282,6 +283,7 @@
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/saathvika123/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/saathvika123/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/saathvika123/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
@@ -309,10 +311,16 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
