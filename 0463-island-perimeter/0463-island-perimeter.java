@@ -1,33 +1,37 @@
 class Solution {
     static int di[]={-1,0,1,0};
     static int dj[]={0,1,0,-1};
-    public int islandPerimeter(int[][] grid) {
-        int r=grid.length;
-        int c=grid[0].length;
-        int ans=0;
-        for(int i=0;i<r;i++)
+    public int islandPerimeter(int[][] grid) 
+    {
+        int sr=0,sc=0,r=grid.length,c=grid[0].length,count=0;
+        boolean vis[][]=new boolean[r][c];
+        for(int i=0;i<grid.length;i++)
         {
-            for(int j=0;j<c;j++)
+            for(int j=0;j<grid[0].length;j++)
             {
-             if(grid[i][j]==1)
-             {
-               ans+=fill(grid,i,j,r,c,1,8);
-             }
-            }  
+                if(grid[i][j]==1)
+                {
+                    return bfs(grid,r,c,i,j,vis);
+                }
+            }
         }
-        return ans; 
+        return count;
     }
-    public static int fill(int grid[][],int i,int j,int r,int c,int old,int neww)
+
+    public int bfs(int a[][],int r,int c,int sr,int sc,boolean vis[][])
     {
         int ans=0;
-        if(i<0 || j<0 || i>=r || j>=c || grid[i][j]==0)
-        return 1;
-         if(grid[i][j]==neww)
-        return 0;
-        grid[i][j]=neww;
+        if(sr<0 || sr>=r || sc<0 || sc>=c || a[sr][sc]==0)
+        {
+            return 1;
+        }
+        if(vis[sr][sc]==true) return 0;
+        vis[sr][sc]=true;
         for(int k=0;k<4;k++)
         {
-            ans+=fill(grid,i+di[k],j+dj[k],r,c,old,neww);
+            int ni=di[k]+sr;
+            int nj=dj[k]+sc;
+            ans+=bfs(a,r,c,ni,nj,vis);
         }
         return ans;
     }
