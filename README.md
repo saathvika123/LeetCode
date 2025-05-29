@@ -56,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saathvika123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saathvika123/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/saathvika123/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/saathvika123/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
@@ -280,6 +281,7 @@
 | [0059-spiral-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saathvika123/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saathvika123/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saathvika123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
@@ -312,6 +314,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
@@ -319,6 +322,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
@@ -326,6 +330,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
