@@ -1,38 +1,38 @@
 class Solution {
-    static int di[]={-1,0,1,0};
-    static int dj[]={0,1,0,-1};
-    public int islandPerimeter(int[][] grid) 
+    static int count=0;
+    public int islandPerimeter(int[][] a) 
     {
-        int sr=0,sc=0,r=grid.length,c=grid[0].length,count=0;
-        boolean vis[][]=new boolean[r][c];
-        for(int i=0;i<grid.length;i++)
+        int r=a.length,c=a[0].length;
+        int sr=-1,sc=-1;
+        int vis[][]=new int[r][c];
+        for(int i=0;i<r;i++)
         {
-            for(int j=0;j<grid[0].length;j++)
+            for(int j=0;j<c;j++)
             {
-                if(grid[i][j]==1)
+                if(a[i][j]==1)
                 {
-                    return bfs(grid,r,c,i,j,vis);
+                    sr=i;
+                    sc=j;
+                    break;
                 }
             }
         }
-        return count;
+        count = 0;
+        if(sr==-1) return 0;
+        return bfs(a,sr,sc,r,c,vis);
     }
-
-    public int bfs(int a[][],int r,int c,int sr,int sc,boolean vis[][])
-    {
-        int ans=0;
-        if(sr<0 || sr>=r || sc<0 || sc>=c || a[sr][sc]==0)
-        {
-            return 1;
-        }
-        if(vis[sr][sc]==true) return 0;
-        vis[sr][sc]=true;
-        for(int k=0;k<4;k++)
-        {
-            int ni=di[k]+sr;
-            int nj=dj[k]+sc;
-            ans+=bfs(a,r,c,ni,nj,vis);
-        }
-        return ans;
+    public static int bfs(int a[][],int sr,int sc,int r,int c,int vis[][])
+    {   if(sr < 0 || sr>=r || sc<0 || sc>=c || a[sr][sc]==0)
+          return 1;
+          if(vis[sr][sc]==1) return 0;
+          vis[sr][sc]=1;
+        // if(a[sr][sc]==1)
+        // {
+        count = bfs(a,sr - 1, sc,r,c,vis) +
+         bfs(a, sr, sc + 1,r,c,vis) + 
+         bfs(a, sr + 1, sc,r,c,vis) +
+          bfs(a, sr, sc - 1,r,c,vis);
+        // }
+        return count;
     }
 }
