@@ -89,6 +89,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/saathvika123/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1677-matrix-diagonal-sum](https://github.com/saathvika123/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saathvika123/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/saathvika123/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -295,6 +296,7 @@
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
 | [1677-matrix-diagonal-sum](https://github.com/saathvika123/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saathvika123/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/saathvika123/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/saathvika123/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -319,6 +321,7 @@
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,10 +330,12 @@
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
+| [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/saathvika123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
