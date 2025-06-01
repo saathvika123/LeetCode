@@ -83,6 +83,7 @@
 | [0890-lemonade-change](https://github.com/saathvika123/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [1138-grumpy-bookstore-owner](https://github.com/saathvika123/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1293-three-consecutive-odds](https://github.com/saathvika123/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saathvika123/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -294,6 +295,7 @@
 | [0861-flipping-an-image](https://github.com/saathvika123/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/saathvika123/LeetCode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/saathvika123/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [1677-matrix-diagonal-sum](https://github.com/saathvika123/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/saathvika123/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
@@ -321,6 +323,7 @@
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
+| [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -330,6 +333,7 @@
 | [0463-island-perimeter](https://github.com/saathvika123/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
+| [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
