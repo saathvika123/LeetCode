@@ -106,6 +106,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/saathvika123/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/saathvika123/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saathvika123/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saathvika123/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/saathvika123/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/saathvika123/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -304,6 +305,7 @@
 | [2411-spiral-matrix-iv](https://github.com/saathvika123/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/saathvika123/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2737-row-with-maximum-ones](https://github.com/saathvika123/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saathvika123/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/saathvika123/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/saathvika123/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/saathvika123/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -325,6 +327,7 @@
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
 | [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saathvika123/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | [0733-flood-fill](https://github.com/saathvika123/LeetCode/tree/master/0733-flood-fill) |
 | [1104-coloring-a-border](https://github.com/saathvika123/LeetCode/tree/master/1104-coloring-a-border) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saathvika123/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -342,4 +346,5 @@
 | [0200-number-of-islands](https://github.com/saathvika123/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/saathvika123/LeetCode/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/saathvika123/LeetCode/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/saathvika123/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
