@@ -1,32 +1,34 @@
 class Solution {
-    public int findMaxFish(int[][] a) {
-        int r = a.length, c = a[0].length;
-        int[][] vis = new int[r][c];
-        int maxFish = 0;
-
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                if (a[i][j] != 0 && vis[i][j] == 0) {
-                    int fish = dfs(a, i, j, r, c, vis);
-                    maxFish = Math.max(maxFish, fish);
+    static int di[]={-1,0,1,0};
+    static int dj[]={0,1,0,-1};
+    public int findMaxFish(int[][] grid) {
+        int r=grid.length;
+        int c=grid[0].length;
+        boolean visited[][]=new boolean[r][c];
+        int max=0;
+        for(int i=0;i<r;i++)
+        {
+            for(int j=0;j<c;j++)
+            {
+                if(grid[i][j]>0)
+                {
+                    int x=fill(grid,i,j,r,c,visited);
+                    max=Math.max(x,max);
                 }
             }
         }
-        return maxFish;
+        return max; 
     }
-
-    public int dfs(int[][] a, int i, int j, int r, int c, int[][] vis) {
-        if (i < 0 || i >= r || j < 0 || j >= c || a[i][j] == 0 || vis[i][j] == 1)
-            return 0;
-
-        vis[i][j] = 1;
-        int count = a[i][j];
-
-        count += dfs(a, i + 1, j, r, c, vis);
-        count += dfs(a, i - 1, j, r, c, vis);
-        count += dfs(a, i, j + 1, r, c, vis);
-        count += dfs(a, i, j - 1, r, c, vis);
-
-        return count;
+    public static int fill(int grid[][],int i,int j,int r,int c,boolean visited[][])
+    {
+        if(i<0 || j<0 || i>=r || j>=c || visited[i][j] || grid[i][j]==0)
+        return 0;
+        visited[i][j]=true;
+         int x=grid[i][j];
+        for(int k=0;k<4;k++)
+        {
+         x+=fill(grid,i+di[k],j+dj[k],r,c,visited);
+        }
+        return x;
     }
 }
