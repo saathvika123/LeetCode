@@ -1,32 +1,57 @@
 class Solution {
-    static int count=0;
-    public int islandPerimeter(int[][] a) 
+    static int cnt=0;
+    static int di[]={-1,0,1,0};
+    static int dj[]={0,1,0,-1};
+    public int islandPerimeter(int[][] grid) 
     {
-        int r=a.length,c=a[0].length;
-        int sr=-1,sc=-1;
-        int vis[][]=new int[r][c];
+        int r=grid.length,c=grid[0].length;
+        int val=0;
+        cnt=0;
         for(int i=0;i<r;i++)
+    {
+        for(int j=0;j<c;j++)
         {
-            for(int j=0;j<c;j++)
+            if(grid[i][j]==1)
             {
-                if(a[i][j]==1)
-                {
-                   return bfs(a,i,j,r,c,vis);
+                val+=bfs(grid,i,j,r,c);
+            }
+        }
+    }
+    return val;
+    }
+    public int bfs(int grid[][],int sr,int sc,int r,int c)
+    {
+        Queue<Pair> q=new LinkedList<>();
+        q.add(new Pair(sr,sc));
+        grid[sr][sc]=8;
+        int i,j;
+        while(!q.isEmpty())
+        {
+            Pair s=q.remove();
+            i=s.i;
+            j=s.j;
+            for(int k=0;k<4;k++)
+            {
+                int ni=i+di[k];
+                int nj=j+dj[k];
+                if(ni<0 || ni>=r || nj<0 || nj>=c || grid[ni][nj]==0)
+                { cnt++;
+                }
+                else if(grid[ni][nj]==1)
+                { q.add(new Pair(ni,nj));
+                grid[ni][nj]=8;
                 }
             }
         }
-       return 0;
-        
+        return cnt;
     }
-    public static int bfs(int a[][],int sr,int sc,int r,int c,int vis[][])
-    {   if(sr < 0 || sr>=r || sc<0 || sc>=c || a[sr][sc]==0)
-          return 1;
-          if(vis[sr][sc]==1) return 0;
-          vis[sr][sc]=1;
-        count = bfs(a,sr - 1, sc,r,c,vis) +
-         bfs(a, sr, sc + 1,r,c,vis) + 
-         bfs(a, sr + 1, sc,r,c,vis) +
-          bfs(a, sr, sc - 1,r,c,vis);
-        return count;
+}
+class Pair
+{
+    int i,j;
+    Pair(int i,int j)
+    {
+        this.i=i;
+        this.j=j;
     }
 }
