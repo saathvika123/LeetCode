@@ -27,8 +27,6 @@ class Solution {
         {
             return 0;
         }
-        if(vis[sr][sc]==true) 
-        return 1;
         vis[sr][sc]=true;
         for(int k=0;k<4;k++)
         {
