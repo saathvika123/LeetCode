@@ -35,11 +35,13 @@ class Solution {
                 int ni=i+di[k];
                 int nj=j+dj[k];
                 if(ni<0 || ni>=r || nj<0 || nj>=c || grid[ni][nj]==0)
-                { cnt++;
+                {
+                     cnt++;
                 }
                 else if(grid[ni][nj]==1)
-                { q.add(new Pair(ni,nj));
-                grid[ni][nj]=8;
+                { 
+                    q.add(new Pair(ni,nj));
+                    grid[ni][nj]=8;
                 }
             }
         }
