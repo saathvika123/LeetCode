@@ -13,7 +13,7 @@ class Solution {
         {
             if(grid[i][j]==1)
             {
-                val+=bfs(grid,i,j,r,c);
+                val=bfs(grid,i,j,r,c);
             }
         }
     }
